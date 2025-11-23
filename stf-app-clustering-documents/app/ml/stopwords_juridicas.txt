@@ -1,0 +1,411 @@
+autos
+processo
+presente
+referido
+mencionados
+mencionado
+requerente
+requerido
+requeridos
+requerentes
+autor
+autora
+autores
+réu
+ré
+réus
+partes
+parte
+juízo
+juíza
+juiz
+magistrado
+magistrada
+tribunal
+vara
+comarca
+instância
+decisão
+acórdão
+sentença
+despacho
+petição
+recurso
+embargos
+agravo
+apelação
+preliminar
+mérito
+conforme
+nos termos
+diante disso
+ante o exposto
+assim
+portanto
+outrossim
+ademais
+contudo
+entretanto
+inclusive
+por conseguinte
+haja vista
+eis que
+visto que
+tendo em vista
+neste sentido
+nesse sentido
+desse modo
+desta forma
+dessa forma
+excelentíssimo
+excelentíssima
+douto
+digníssimo
+digna
+ilustre
+respeitável
+respeitáveis
+nobres
+egrégio
+colenda
+ínclito
+requer
+requer-se
+pede
+pede-se
+manifesta
+manifesta-se
+informa
+informa-se
+apresenta
+apresenta-se
+junta
+junta-se
+anexa
+anexa-se
+versa
+trata
+trata-se
+consiste
+consiste-se
+lei
+inciso
+parágrafo
+caput
+alínea
+código
+decreto
+norma
+regulamento
+poder judiciario
+poder judiciario do estado
+estado do acre
+estado do para
+estado de sao paulo
+estado do rio de janeiro
+tribunal de justica
+tribunal de justica do estado
+tj
+tjpa
+tjpi
+tjmg
+tjrs
+tjba
+tjpe
+tjal
+tjce
+tjam
+tjsc
+tjpr
+tjsp
+tjrj
+tjac
+trf
+trt
+stj
+stf
+sjd
+justica federal
+justica estadual
+justica do trabalho
+justica eleitoral
+ministerio publico
+ministerio publico federal
+mp
+mpf
+mpu
+procuradoria
+procurador
+procuradora
+defensoria publica
+defensoria
+defensor
+advogado
+advogada
+oab
+relatoria
+relator
+relatora
+gabinete
+secretaria
+serventia
+escritorio
+cartorio
+cartorio judicial
+escrivao
+escriva
+vara
+vara unica
+primeira vara
+segunda vara
+terceira vara
+merito
+meritissimo
+meritissima
+excelencia
+excelentissimo
+excelentissima
+vossa excelencia
+ilustre
+ilustrissimo
+doutor
+doutora
+senhor
+senhora
+sra
+sr
+colegiado
+camara
+turma
+acordao
+acordam
+ementa
+relatorio
+fundamentacao
+dispositivo
+procuradoria
+procurador
+requerido
+requerente
+apelante
+apelado
+agravante
+agravado
+embargante
+embargado
+reclamante
+reclamado
+paciente
+acusado
+reu
+autor
+parte autora
+parte re
+sentenca
+sentenciado
+sentenciar
+decisao
+despacho
+certidao
+oficio
+documento
+documentos
+provas
+prova
+probatório
+processual
+processo
+autos
+autuacao
+protocolo
+protocolado
+protocolar
+notificacao
+intimacao
+custas
+precedentes
+sumula
+jurisprudencia
+jurisdicao
+jurisdicional
+comarca
+foro
+domicilio
+municipio
+estado
+uniao
+federacao
+excelentissimo senhor juiz
+autos
+processo
+processual
+processuais
+peça
+peças
+documento
+documentos
+anexo
+anexos
+juntada
+juntado
+juntados
+despacho
+despachos
+movimentação
+movimentacoes
+andamento
+pagina
+paginas
+folha
+folhas
+volume
+volumes
+peticionamento
+peticionado
+protocolado
+protocolo
+digital
+eletronico
+eletronica
+sistema
+expediente
+certidao
+registro
+registrado
+concluso
+conclusao
+analise
+informacao
+informacoes
+comunicacao
+comunicado
+procedimento
+procedimentos
+distribuicao
+tramitacao
+tramite
+fato
+fatos
+evento
+eventos
+situacao
+situacoes
+circunstancia
+circunstancias
+hipotese
+hipoteses
+questao
+questoes
+motivo
+motivos
+razao
+razoes
+fundamento
+fundamentos
+argumento
+argumentos
+pedido
+pedidos
+manifestacao
+versao
+relato
+relata
+relatado
+indica
+indicado
+indicam
+descreve
+descrito
+traz
+trazer
+aponta
+apontado
+menciona
+mencionado
+citado
+citados
+expõe
+exposto
+diante disso
+ante o exposto
+por fim
+assim sendo
+dessa forma
+deste modo
+nesse sentido
+nessa senda
+portanto
+contudo
+entretanto
+ademais
+inclusive
+bem como
+além disso
+ou seja
+eis que
+visto que
+tendo em vista
+haja vista
+por conseguinte
+certifico
+dou fe
+certifico e dou fe
+nada mais
+consta
+constam
+conferido
+verificado
+gabinete
+cartorio
+secretaria
+serventia
+escritorio
+foro
+comarca
+judiciario
+judicial
+justica
+tribunal
+ministerio
+ministerio publico
+procuradoria
+defensoria
+desembargadora 
+desembargador
+evangelista
+federal
+direito
+presidente
+stf
+stj
+tse
+tst
+tm
+trf
+tj
+tjrs
+tjmg
+tjpr
+tjsp
+tjrj
+tjba
+mp
+mpsp
+mpf
+mpgo
+mpro
+cnj
+tcu
+dpu
+dpe
+dpf
+ag
+agint
+resp
+re
+poder
+data
+hora
+assinatura
+signatario
+digitalmente
