@@ -1,0 +1,120 @@
+/* --- BASE DO SITE --- */
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: "Segoe UI", sans-serif;
+    background: linear-gradient(145deg, #f0f4fa 0%, #dce3ec 100%) !important;
+    color: #0E4C92 !important;
+}
+
+/* Remove header e espaçamentos padrões */
+section[data-testid="stHeader"] {
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    background: transparent !important;
+}
+
+section[data-testid="stAppViewContainer"] {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+.main .block-container {
+    padding-top: 1rem !important;
+    margin-top: 0 !important;
+}
+
+/* --- TITULOS --- */
+h1 {
+    text-align: center;
+    color: #0E4C92 !important;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.1);
+    margin-bottom: 1rem;
+}
+
+h2, h3, .stSubheader {
+    color: #0E4C92 !important;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.8rem;
+}
+
+/* --- TEXTAREA --- */
+.stTextArea textarea {
+    border-radius: 14px !important;
+    border: 1px solid #AFC2D4 !important;
+    padding: 16px !important;
+    font-size: 16px !important;
+    background: #ffffff !important;
+    color: #0E4C92 !important;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+    transition: 0.25s all ease-in-out;
+}
+
+.stTextArea textarea:focus {
+    border-color: #0A3A72 !important;
+    box-shadow: 0 4px 12px rgba(14,76,146,0.2);
+    outline: none !important;
+}
+
+/* --- BOTÃO --- */
+.stButton>button {
+    background: #0E4C92 !important;
+    color: white !important;
+    border-radius: 12px !important;
+    padding: 0.65em 1.4em !important;
+    font-size: 16px !important;
+    border: none !important;
+    font-weight: 600 !important;
+    cursor: pointer;
+    transition: all 0.25s ease !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.stButton>button:hover {
+    background: #0A3A72 !important;
+    transform: scale(1.05);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+}
+
+/* --- CARDS --- */
+.card {
+    padding: 24px;
+    background: #ffffff !important;
+    border-radius: 16px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+    margin-bottom: 30px;
+    border-left: 6px solid #0E4C92;
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+
+/* --- SIDEBAR --- */
+.sidebar .sidebar-content {
+    background-color: #0E4C92 !important;
+    color: white !important;
+    padding-top: 1rem;
+}
+
+/* --- CONTAINER CENTRAL --- */
+.block-container {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+section.main > div {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* --- FIX: TEXTOS EM MODO DARK --- */
+* {
+    color: inherit !important;
+}
